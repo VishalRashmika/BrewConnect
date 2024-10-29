@@ -1,0 +1,10 @@
+C:\Users\gojo\Documents\BrewConnect\BrewConnect\bin\Debug\BrewConnect.exe.config
+C:\Users\gojo\Documents\BrewConnect\BrewConnect\bin\Debug\BrewConnect.exe
+C:\Users\gojo\Documents\BrewConnect\BrewConnect\bin\Debug\BrewConnect.pdb
+C:\Users\gojo\Documents\BrewConnect\BrewConnect\obj\Debug\BrewConnect.csproj.AssemblyReference.cache
+C:\Users\gojo\Documents\BrewConnect\BrewConnect\obj\Debug\BrewConnect.Properties.Resources.resources
+C:\Users\gojo\Documents\BrewConnect\BrewConnect\obj\Debug\BrewConnect.csproj.GenerateResource.cache
+C:\Users\gojo\Documents\BrewConnect\BrewConnect\obj\Debug\BrewConnect.csproj.CoreCompileInputs.cache
+C:\Users\gojo\Documents\BrewConnect\BrewConnect\obj\Debug\BrewConnect.exe
+C:\Users\gojo\Documents\BrewConnect\BrewConnect\obj\Debug\BrewConnect.pdb
+C:\Users\gojo\Documents\BrewConnect\BrewConnect\obj\Debug\BrewConnect.BrewConnect.resources
